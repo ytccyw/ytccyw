@@ -2,9 +2,9 @@
 
 <div align="left">
 
-🔹 **DTMC: Dual Domain Tensor Filtering for Incomplete Multi-view Clustering**  
-**IEEE TIP, 2026**  
-<a href="https://ieeexplore.ieee.org/xxxx">Paper</a>
+🔹 **AACGC: Aligned anchors and cluster-structure guided fusion for multimodal remote sensing clustering**  
+**Information Fusion, 2026**  
+<a href="https://github.com/ytccyw/AACGC">Paper</a>
 
 🔹 **Deep Incomplete Multi-view Clustering with Manifold Learning**  
 **IEEE TNNLS, 2025**  
