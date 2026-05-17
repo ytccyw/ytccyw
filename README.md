@@ -1,16 +1,17 @@
-## Hi there 👋
+## 📝 Selected Publications
 
-<!--
-**ytccyw/ytccyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+🔹 **DTMC: Dual Domain Tensor Filtering for Incomplete Multi-view Clustering**  
+**IEEE TIP, 2026**  
+<a href="https://ieeexplore.ieee.org/xxxx">Paper</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Deep Incomplete Multi-view Clustering with Manifold Learning**  
+**IEEE TNNLS, 2025**  
+<a href="https://arxiv.org/abs/xxxx">Paper</a>
+
+🔹 **Survey on Incomplete Multi-view Clustering**  
+**IEEE TKDE, 2024**  
+<a href="https://ieeexplore.ieee.org/xxxx">Paper</a>
+
+</div>
