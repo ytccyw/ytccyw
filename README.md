@@ -12,6 +12,27 @@
 </div>
 
 <table style="border:none; border-collapse:collapse; width:100%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+  <!-- DPAS-MC -->
+  <tr style="border-bottom: 2px dashed #DFE4EA;">
+    <!-- 锁死列宽为 240px -->
+    <td width="240" align="center" style="padding: 20px 15px 20px 0;">
+      <!-- 手动设置绝对的 width 和 height，加入 object-fit 完美裁切图 -->
+      <img src="./image/tu1.png" alt="DPAS-MC Figure" width="200" height="200" style="object-fit: cover; border-radius: 8px; border: 1px solid #DFE4EA; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
+    </td>
+    <td style="padding: 20px 0 20px 15px;">
+      <h3 style="margin: 0 0 10px 0; color: #2F3542; font-size: 18px; line-height: 1.4; font-weight: 700;">
+        Density Peak Anchor Selection for Multi-View Clustering
+      </h3>
+      <p style="margin: 0 0 16px 0; color: #D81B60; font-size: 14px; font-weight: bold;">
+        IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026
+      </p>
+      <p style="margin: 0;">
+        <a href="https://ieeexplore.ieee.org/document/11534303" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-FF4757?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper" height="26"></a>
+        <a href="https://github.com/ytccyw/DPAS-MC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-1DD1A1?style=for-the-badge&logo=github&logoColor=white" alt="Code" height="26"></a>
+      </p>
+    </td>
+  </tr>
   
   <!-- 成果 1: AACGC -->
   <tr style="border-bottom: 2px dashed #DFE4EA;">
