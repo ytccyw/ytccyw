@@ -65,7 +65,7 @@
         Efficient One-Step Orthogonal Consensus Framework for Multiview Remote Sensing Clustering
       </h3>
       <p style="margin: 0 0 16px 0; color: #0097E6; font-size: 14px; font-weight: bold;">
-        IEEE Transactions on Geoscience and Remote Sensing (TGAS), 2026
+        IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026
       </p>
       <p style="margin: 0;">
         <a href="https://ieeexplore.ieee.org/abstract/document/11404236" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-FF4757?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper" height="26"></a>
